@@ -117,7 +117,7 @@ header nav.menu-desktop ul li {
 }
 
 .menu-mobile.abrir-menu{
-    width: 50%;
+    width: 30%;
 }
 
 .menu-mobile.abrir-menu ~ .overlay-menu
