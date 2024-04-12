@@ -32,6 +32,11 @@ body {
     display: flex;
 }
 
+.efeito-txt-topo, .efeito-img-topo, .titulo, .efeito-especialidade1, .efeito-especialidade2, .efeito-especialidade3
+.efeito-img-sobre, .efeito-txt-sobre, .efeito-img-port1, .efeito-img-port2, .efeito-img-port3{ 
+    visibility: hidden;
+}
+
 .btn-contato button {
     padding: 10px 40px;
     font-size: 18px;
